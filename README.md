@@ -63,3 +63,11 @@ temperament, description, origin, life_span, weight: Detailed information provid
 
 The CSV file is saved as cat_images_data.csv in the project folder.
 
+
+##Note
+
+Image classification AI is usually wrong. This dataset provides a good comparison between predictions and actualities, but predictions must always be taken with a grain of salt.
+
+<img width="507" alt="image" src="https://github.com/user-attachments/assets/d5d98391-d4bf-4e07-a322-e061d2a45f6d">
+
+
