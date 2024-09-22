@@ -52,9 +52,14 @@ Output
 The program scrapes images from iStock, gathers images from TheCatAPI, predicts cat breeds using ResNet50, and combines the data into a CSV file. The CSV contains the following fields:
 
 image_url: The URL of the cat image.
+
 alt_text: Alternative text for the iStock images.
+
 ai_prediction: The predicted breed from the AI model.
+
 breed_from_catapi: The actual breed from TheCatAPI (if available).
+
 temperament, description, origin, life_span, weight: Detailed information provided for TheCatAPI images.
+
 The CSV file is saved as cat_images_data.csv in the project folder.
 
