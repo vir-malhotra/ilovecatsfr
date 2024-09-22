@@ -1,0 +1,9 @@
+requests
+selenium
+tensorflow
+keras
+pillow
+numpy
+pandas
+matplotlib
+python-dotenv
